@@ -51,6 +51,7 @@ In this project I implemented the backend of the Home Office.
 Which all CRUD service includes search operation (nice to have) Create, Update, Read, Delete, Search)
 
 Here's why:
+<br />
 *Create => We can create a new person, and keep it in the database 
 <br />
 *Read => Search and accept a person who meets the filter.
@@ -62,7 +63,6 @@ In case there is no filtering, all the people in the database will be sent
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,6 +77,7 @@ This section should list any major frameworks/libraries used to bootstrap my pro
 * [MongoDB](https://www.mongodb.com/)
 <br />
 for checking I used:
+<br />
 * [Postman](https://www.postman.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
