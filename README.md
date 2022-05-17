@@ -47,12 +47,18 @@
 
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+In this project I implemented the backend of the Home Office.
+Which all CRUD service includes search operation (nice to have) Create, Update, Read, Delete, Search)
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+*Create => We can create a new person, and keep it in the database 
+<br />
+*Read => Search and accept a person who meets the filter.
+In case there is no filtering, all the people in the database will be sent
+<br />
+*Update => Search and update of a person who meets the parameters.
+<br />
+*Delete => Search and delete a person who meets the parameters.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -68,6 +74,7 @@ This section should list any major frameworks/libraries used to bootstrap my pro
 
 * [Nodejs](https://nodejs.org/en/)
 * [JavaScript]
+<br />
 for checking I used:
 * [Postman](https://www.postman.com/)
 
