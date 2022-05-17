@@ -50,14 +50,17 @@
 In this project I implemented the backend of the Home Office.
 Which all CRUD service includes search operation (nice to have) Create, Update, Read, Delete, Search)
 
-Here's why:
+Here's How:
 <br />
 *Create => We can create a new person, and keep it in the database 
+<br />
 <br />
 *Read => Search and accept a person who meets the filter.
 In case there is no filtering, all the people in the database will be sent
 <br />
+<br />
 *Update => Search and update of a person who meets the parameters.
+<br />
 <br />
 *Delete => Search and delete a person who meets the parameters.
 
