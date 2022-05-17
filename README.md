@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.gov.il/BlobFolder/news/news-17-03-2020/he/news_2020_03_logo_800_600.jpg" alt="Logo" width="80" height="80">
+    <img src="https://www.gov.il/BlobFolder/news/news-17-03-2020/he/news_2020_03_logo_800_600.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">README-Template for backend Ministry of Interior</h3>
@@ -64,16 +64,12 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap my project. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Nodejs](https://nodejs.org/en/)
+* [JavaScript]
+for checking I used:
+* [Postman](https://www.postman.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,9 +90,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 
 1. Clone the repo
    ```sh
