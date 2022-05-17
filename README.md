@@ -1,6 +1,7 @@
+<div id="top"></div>
 # SyteHomeAssignment
 <br />
-<div id="top"></div>
+
 
 
 
@@ -10,23 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FPibaIsrael%2Fphotos%2Fd41d8cd9%2F2234532783257368%2F&psig=AOvVaw2HZYfDjCoAkGtTmiLeXAWS&ust=1652873102679000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCXi6W25vcCFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
+    <img src="https://www.gov.il/BlobFolder/news/news-17-03-2020/he/news_2020_03_logo_800_600.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">README-Template for backend Ministry of Interior</h3>
 </div>
 
 
@@ -57,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
